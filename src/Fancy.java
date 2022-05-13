@@ -3,5 +3,6 @@ public class Fancy {
         int a=2;
         int b=3;
         System.out.println(a);
+        System.out.println(b);
     }
 }
